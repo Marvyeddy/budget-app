@@ -6,6 +6,7 @@ const variants = {
   white: `bg-['#ffffff'] py-[4px] px-[8px] rounded-[12px]`,
   grey: `bg-['#FFFFFF1F'] py-[4px] px-[8px] rounded-[12px]`,
   transparent: `py-[4px] px-[8px] rounded-[12px]`,
+  dark: `bg-primary-black py-[8px] px-[12px] rounded-full`,
 };
 
 type ButtonProps = {
